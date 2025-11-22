@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Synoptic Gospels - Distant Reading Analysis</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body>
     <header>
@@ -149,6 +150,27 @@
         <!-- Comparison Tab -->
         <div id="comparison" class="tab-content">
             <h2>Comparative Analysis</h2>
+
+            <!-- Charts Section -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3>Word Count Comparison</h3>
+                    <canvas id="wordCountChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>Lexical Diversity Comparison</h3>
+                    <canvas id="diversityChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>Sentiment Analysis</h3>
+                    <canvas id="sentimentChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>Overall Metrics Radar</h3>
+                    <canvas id="radarChart"></canvas>
+                </div>
+            </div>
+
             <div class="comparison-grid">
                 <div class="section full-width">
                     <h3>Style Metrics Comparison</h3>

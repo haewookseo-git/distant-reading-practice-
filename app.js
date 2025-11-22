@@ -182,6 +182,216 @@ function populateComparison() {
             </tr>
         `;
     }).join('');
+
+    // Render charts
+    renderComparisonCharts();
+}
+
+// Render comparison charts
+function renderComparisonCharts() {
+    const matthew = analysisData.gospels.Matthew;
+    const mark = analysisData.gospels.Mark;
+    const luke = analysisData.gospels.Luke;
+
+    const gospelColors = {
+        matthew: 'rgba(102, 126, 234, 0.8)',
+        mark: 'rgba(118, 75, 162, 0.8)',
+        luke: 'rgba(237, 100, 166, 0.8)'
+    };
+
+    // Word Count Chart (Bar)
+    new Chart(document.getElementById('wordCountChart'), {
+        type: 'bar',
+        data: {
+            labels: ['Matthew', 'Mark', 'Luke'],
+            datasets: [{
+                label: 'Total Words',
+                data: [
+                    matthew.style_metrics.total_words,
+                    mark.style_metrics.total_words,
+                    luke.style_metrics.total_words
+                ],
+                backgroundColor: [
+                    gospelColors.matthew,
+                    gospelColors.mark,
+                    gospelColors.luke
+                ],
+                borderWidth: 0
+            }, {
+                label: 'Unique Words',
+                data: [
+                    matthew.style_metrics.unique_words,
+                    mark.style_metrics.unique_words,
+                    luke.style_metrics.unique_words
+                ],
+                backgroundColor: [
+                    'rgba(102, 126, 234, 0.5)',
+                    'rgba(118, 75, 162, 0.5)',
+                    'rgba(237, 100, 166, 0.5)'
+                ],
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+
+    // Lexical Diversity Chart (Horizontal Bar)
+    new Chart(document.getElementById('diversityChart'), {
+        type: 'bar',
+        data: {
+            labels: ['Matthew', 'Mark', 'Luke'],
+            datasets: [{
+                label: 'Lexical Diversity',
+                data: [
+                    matthew.style_metrics.lexical_diversity,
+                    mark.style_metrics.lexical_diversity,
+                    luke.style_metrics.lexical_diversity
+                ],
+                backgroundColor: [
+                    gospelColors.matthew,
+                    gospelColors.mark,
+                    gospelColors.luke
+                ],
+                borderWidth: 0
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    max: 0.2
+                }
+            }
+        }
+    });
+
+    // Sentiment Chart (Grouped Bar)
+    new Chart(document.getElementById('sentimentChart'), {
+        type: 'bar',
+        data: {
+            labels: ['Matthew', 'Mark', 'Luke'],
+            datasets: [{
+                label: 'Polarity',
+                data: [
+                    matthew.sentiment.polarity,
+                    mark.sentiment.polarity,
+                    luke.sentiment.polarity
+                ],
+                backgroundColor: 'rgba(75, 192, 192, 0.8)',
+                borderWidth: 0
+            }, {
+                label: 'Subjectivity',
+                data: [
+                    matthew.sentiment.subjectivity,
+                    mark.sentiment.subjectivity,
+                    luke.sentiment.subjectivity
+                ],
+                backgroundColor: 'rgba(255, 159, 64, 0.8)',
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 1
+                }
+            }
+        }
+    });
+
+    // Radar Chart (Overall Metrics)
+    new Chart(document.getElementById('radarChart'), {
+        type: 'radar',
+        data: {
+            labels: [
+                'Lexical Diversity (×10)',
+                'Avg Words/Verse (÷10)',
+                'Sentiment Polarity (×10)',
+                'Sentiment Subjectivity'
+            ],
+            datasets: [{
+                label: 'Matthew',
+                data: [
+                    matthew.style_metrics.lexical_diversity * 10,
+                    matthew.style_metrics.avg_words_per_verse / 10,
+                    matthew.sentiment.polarity * 10,
+                    matthew.sentiment.subjectivity
+                ],
+                backgroundColor: 'rgba(102, 126, 234, 0.2)',
+                borderColor: gospelColors.matthew,
+                borderWidth: 2
+            }, {
+                label: 'Mark',
+                data: [
+                    mark.style_metrics.lexical_diversity * 10,
+                    mark.style_metrics.avg_words_per_verse / 10,
+                    mark.sentiment.polarity * 10,
+                    mark.sentiment.subjectivity
+                ],
+                backgroundColor: 'rgba(118, 75, 162, 0.2)',
+                borderColor: gospelColors.mark,
+                borderWidth: 2
+            }, {
+                label: 'Luke',
+                data: [
+                    luke.style_metrics.lexical_diversity * 10,
+                    luke.style_metrics.avg_words_per_verse / 10,
+                    luke.sentiment.polarity * 10,
+                    luke.sentiment.subjectivity
+                ],
+                backgroundColor: 'rgba(237, 100, 166, 0.2)',
+                borderColor: gospelColors.luke,
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
+            },
+            scales: {
+                r: {
+                    beginAtZero: true,
+                    max: 3
+                }
+            }
+        }
+    });
 }
 
 // Interpret sentiment values
