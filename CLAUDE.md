@@ -77,13 +77,57 @@ When implementing analyses:
 - Consider the theological and literary relationship between the Synoptic Gospels (Matthew, Mark, Luke share significant content)
 - Be aware of the translation's characteristics (Weymouth's "Modern Speech" is an early 20th century English translation)
 
-## Development Workflow
+## Project Architecture
 
-Since this is a practice repository with no existing code:
+This repository now includes a complete analysis pipeline:
 
-1. Create Python scripts or Jupyter notebooks for analyses
-2. Save analysis scripts in a logical structure (e.g., `scripts/` or `notebooks/`)
-3. Document findings and methodologies in the analysis files themselves
-4. Consider creating a `requirements.txt` if adding dependencies
+**Data Flow:**
+1. **Source Texts** (pg8828.txt, pg8829.txt, pg8830.txt) →
+2. **Analysis Script** (scripts/analyze_gospels.py) →
+3. **JSON Output** (data/analysis_results.json) →
+4. **Web Visualization** (visualization/)
 
-No formal build, test, or lint commands exist yet - this is intentionally minimal to support learning and experimentation.
+**Key Components:**
+
+- `scripts/analyze_gospels.py`: Main analysis script using TextBlob and NLTK
+  - GospelAnalyzer class handles all text processing
+  - Performs sentiment analysis, style metrics, word frequency, and overlap detection
+  - Exports structured JSON for visualization
+
+- `data/analysis_results.json`: Generated data file containing:
+  - Per-Gospel metrics (sentiment, style, top words, word cloud data)
+  - Overlapping words across all three texts (1,207 words)
+  - Metadata about the analysis
+
+- `visualization/`: Web-based interactive interface
+  - index.html: Structure with tabs for overview, individual Gospels, comparison, overlaps
+  - app.js: Loads JSON, renders word clouds, populates tables
+  - styles.css: Gradient styling with responsive design
+
+## Common Commands
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run Analysis
+```bash
+python3 scripts/analyze_gospels.py
+```
+This regenerates `data/analysis_results.json` with fresh analysis results.
+
+### View Visualization
+
+**GitHub Pages (Recommended):**
+The visualization files are in the repository root (index.html, app.js, styles.css).
+Enable GitHub Pages in repository Settings → Pages, select the branch, and the site will be live.
+
+**Local Development:**
+```bash
+# From repository root
+python3 -m http.server 8000
+```
+Then open http://localhost:8000 in your browser.
+
+Note: Opening index.html directly won't work due to CORS restrictions on loading local JSON files.
