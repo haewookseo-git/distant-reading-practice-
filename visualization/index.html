@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synoptic Gospels - Distant Reading Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Distant Reading Analysis</h1>
+        <p class="subtitle">Comparative Analysis of Matthew, Mark, and Luke</p>
+        <p class="source">Weymouth New Testament in Modern Speech (1913)</p>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab-button active" data-tab="overview">Overview</button>
+        <button class="tab-button" data-tab="matthew">Matthew</button>
+        <button class="tab-button" data-tab="mark">Mark</button>
+        <button class="tab-button" data-tab="luke">Luke</button>
+        <button class="tab-button" data-tab="comparison">Comparison</button>
+        <button class="tab-button" data-tab="overlapping">Overlapping Words</button>
+    </nav>
+
+    <main class="container">
+        <!-- Overview Tab -->
+        <div id="overview" class="tab-content active">
+            <h2>Overview</h2>
+            <div class="overview-grid">
+                <div class="gospel-card" data-gospel="matthew">
+                    <h3>Matthew</h3>
+                    <div class="metric">
+                        <span class="metric-label">Total Words:</span>
+                        <span class="metric-value" id="matthew-total-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Unique Words:</span>
+                        <span class="metric-value" id="matthew-unique-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Lexical Diversity:</span>
+                        <span class="metric-value" id="matthew-diversity">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Sentiment:</span>
+                        <span class="metric-value" id="matthew-sentiment">-</span>
+                    </div>
+                </div>
+
+                <div class="gospel-card" data-gospel="mark">
+                    <h3>Mark</h3>
+                    <div class="metric">
+                        <span class="metric-label">Total Words:</span>
+                        <span class="metric-value" id="mark-total-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Unique Words:</span>
+                        <span class="metric-value" id="mark-unique-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Lexical Diversity:</span>
+                        <span class="metric-value" id="mark-diversity">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Sentiment:</span>
+                        <span class="metric-value" id="mark-sentiment">-</span>
+                    </div>
+                </div>
+
+                <div class="gospel-card" data-gospel="luke">
+                    <h3>Luke</h3>
+                    <div class="metric">
+                        <span class="metric-label">Total Words:</span>
+                        <span class="metric-value" id="luke-total-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Unique Words:</span>
+                        <span class="metric-value" id="luke-unique-words">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Lexical Diversity:</span>
+                        <span class="metric-value" id="luke-diversity">-</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Sentiment:</span>
+                        <span class="metric-value" id="luke-sentiment">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Matthew Tab -->
+        <div id="matthew" class="tab-content">
+            <h2>Gospel of Matthew</h2>
+            <div class="gospel-details">
+                <div class="section">
+                    <h3>Style Metrics</h3>
+                    <div id="matthew-metrics" class="metrics-grid"></div>
+                </div>
+                <div class="section">
+                    <h3>Top 20 Most Frequent Words</h3>
+                    <div id="matthew-top-words" class="word-list"></div>
+                </div>
+                <div class="section full-width">
+                    <h3>Word Cloud (Top 50 Words)</h3>
+                    <div id="matthew-word-cloud" class="word-cloud"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mark Tab -->
+        <div id="mark" class="tab-content">
+            <h2>Gospel of Mark</h2>
+            <div class="gospel-details">
+                <div class="section">
+                    <h3>Style Metrics</h3>
+                    <div id="mark-metrics" class="metrics-grid"></div>
+                </div>
+                <div class="section">
+                    <h3>Top 20 Most Frequent Words</h3>
+                    <div id="mark-top-words" class="word-list"></div>
+                </div>
+                <div class="section full-width">
+                    <h3>Word Cloud (Top 50 Words)</h3>
+                    <div id="mark-word-cloud" class="word-cloud"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Luke Tab -->
+        <div id="luke" class="tab-content">
+            <h2>Gospel of Luke</h2>
+            <div class="gospel-details">
+                <div class="section">
+                    <h3>Style Metrics</h3>
+                    <div id="luke-metrics" class="metrics-grid"></div>
+                </div>
+                <div class="section">
+                    <h3>Top 20 Most Frequent Words</h3>
+                    <div id="luke-top-words" class="word-list"></div>
+                </div>
+                <div class="section full-width">
+                    <h3>Word Cloud (Top 50 Words)</h3>
+                    <div id="luke-word-cloud" class="word-cloud"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Comparison Tab -->
+        <div id="comparison" class="tab-content">
+            <h2>Comparative Analysis</h2>
+            <div class="comparison-grid">
+                <div class="section full-width">
+                    <h3>Style Metrics Comparison</h3>
+                    <table class="comparison-table">
+                        <thead>
+                            <tr>
+                                <th>Metric</th>
+                                <th>Matthew</th>
+                                <th>Mark</th>
+                                <th>Luke</th>
+                            </tr>
+                        </thead>
+                        <tbody id="comparison-metrics"></tbody>
+                    </table>
+                </div>
+                <div class="section full-width">
+                    <h3>Sentiment Analysis</h3>
+                    <table class="comparison-table">
+                        <thead>
+                            <tr>
+                                <th>Gospel</th>
+                                <th>Polarity</th>
+                                <th>Subjectivity</th>
+                                <th>Interpretation</th>
+                            </tr>
+                        </thead>
+                        <tbody id="comparison-sentiment"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Overlapping Words Tab -->
+        <div id="overlapping" class="tab-content">
+            <h2>Overlapping Words Across All Three Gospels</h2>
+            <p class="description">Words that appear in Matthew, Mark, and Luke with their frequencies.</p>
+            <div class="filter-controls">
+                <label for="word-filter">Filter words:</label>
+                <input type="text" id="word-filter" placeholder="Type to filter...">
+                <span id="overlap-count" class="count-badge"></span>
+            </div>
+            <div class="overlapping-words">
+                <table class="overlap-table">
+                    <thead>
+                        <tr>
+                            <th>Word</th>
+                            <th>Matthew</th>
+                            <th>Mark</th>
+                            <th>Luke</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody id="overlap-table-body"></tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Analysis performed using TextBlob for sentiment analysis and NLTK for text processing.</p>
+        <p>Source texts from Project Gutenberg (Public Domain)</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

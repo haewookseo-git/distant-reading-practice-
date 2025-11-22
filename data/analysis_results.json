@@ -1,0 +1,9358 @@
+{
+  "gospels": {
+    "Matthew": {
+      "name": "Matthew",
+      "sentiment": {
+        "polarity": 0.0933,
+        "subjectivity": 0.5128
+      },
+      "style_metrics": {
+        "total_words": 24139,
+        "unique_words": 2743,
+        "lexical_diversity": 0.1136,
+        "vocabulary_size": 2743,
+        "verse_count": 1071,
+        "avg_words_per_verse": 22.54
+      },
+      "top_words": [
+        {
+          "word": "said",
+          "count": 175
+        },
+        {
+          "word": "jesus",
+          "count": 158
+        },
+        {
+          "word": "one",
+          "count": 143
+        },
+        {
+          "word": "man",
+          "count": 117
+        },
+        {
+          "word": "shall",
+          "count": 98
+        },
+        {
+          "word": "came",
+          "count": 96
+        },
+        {
+          "word": "son",
+          "count": 78
+        },
+        {
+          "word": "disciples",
+          "count": 71
+        },
+        {
+          "word": "father",
+          "count": 65
+        },
+        {
+          "word": "come",
+          "count": 65
+        },
+        {
+          "word": "tell",
+          "count": 65
+        },
+        {
+          "word": "replied",
+          "count": 63
+        },
+        {
+          "word": "god",
+          "count": 62
+        },
+        {
+          "word": "went",
+          "count": 60
+        },
+        {
+          "word": "men",
+          "count": 58
+        },
+        {
+          "word": "people",
+          "count": 54
+        },
+        {
+          "word": "kingdom",
+          "count": 54
+        },
+        {
+          "word": "away",
+          "count": 50
+        },
+        {
+          "word": "see",
+          "count": 49
+        },
+        {
+          "word": "put",
+          "count": 47
+        }
+      ],
+      "word_cloud": [
+        {
+          "word": "said",
+          "count": 175
+        },
+        {
+          "word": "jesus",
+          "count": 158
+        },
+        {
+          "word": "one",
+          "count": 143
+        },
+        {
+          "word": "man",
+          "count": 117
+        },
+        {
+          "word": "shall",
+          "count": 98
+        },
+        {
+          "word": "came",
+          "count": 96
+        },
+        {
+          "word": "son",
+          "count": 78
+        },
+        {
+          "word": "disciples",
+          "count": 71
+        },
+        {
+          "word": "father",
+          "count": 65
+        },
+        {
+          "word": "come",
+          "count": 65
+        },
+        {
+          "word": "tell",
+          "count": 65
+        },
+        {
+          "word": "replied",
+          "count": 63
+        },
+        {
+          "word": "god",
+          "count": 62
+        },
+        {
+          "word": "went",
+          "count": 60
+        },
+        {
+          "word": "men",
+          "count": 58
+        },
+        {
+          "word": "people",
+          "count": 54
+        },
+        {
+          "word": "kingdom",
+          "count": 54
+        },
+        {
+          "word": "away",
+          "count": 50
+        },
+        {
+          "word": "see",
+          "count": 49
+        },
+        {
+          "word": "put",
+          "count": 47
+        },
+        {
+          "word": "time",
+          "count": 43
+        },
+        {
+          "word": "give",
+          "count": 42
+        },
+        {
+          "word": "good",
+          "count": 40
+        },
+        {
+          "word": "say",
+          "count": 39
+        },
+        {
+          "word": "two",
+          "count": 39
+        },
+        {
+          "word": "day",
+          "count": 39
+        },
+        {
+          "word": "heavens",
+          "count": 37
+        },
+        {
+          "word": "upon",
+          "count": 35
+        },
+        {
+          "word": "every",
+          "count": 34
+        },
+        {
+          "word": "called",
+          "count": 33
+        },
+        {
+          "word": "master",
+          "count": 33
+        },
+        {
+          "word": "therefore",
+          "count": 32
+        },
+        {
+          "word": "heaven",
+          "count": 32
+        },
+        {
+          "word": "house",
+          "count": 31
+        },
+        {
+          "word": "let",
+          "count": 31
+        },
+        {
+          "word": "asked",
+          "count": 30
+        },
+        {
+          "word": "thou",
+          "count": 30
+        },
+        {
+          "word": "whoever",
+          "count": 30
+        },
+        {
+          "word": "among",
+          "count": 29
+        },
+        {
+          "word": "thy",
+          "count": 29
+        },
+        {
+          "word": "also",
+          "count": 29
+        },
+        {
+          "word": "mother",
+          "count": 28
+        },
+        {
+          "word": "john",
+          "count": 28
+        },
+        {
+          "word": "pharisees",
+          "count": 28
+        },
+        {
+          "word": "like",
+          "count": 28
+        },
+        {
+          "word": "left",
+          "count": 28
+        },
+        {
+          "word": "life",
+          "count": 27
+        },
+        {
+          "word": "hand",
+          "count": 27
+        },
+        {
+          "word": "lord",
+          "count": 26
+        },
+        {
+          "word": "took",
+          "count": 26
+        }
+      ]
+    },
+    "Mark": {
+      "name": "Mark",
+      "sentiment": {
+        "polarity": 0.0785,
+        "subjectivity": 0.478
+      },
+      "style_metrics": {
+        "total_words": 15378,
+        "unique_words": 2165,
+        "lexical_diversity": 0.1408,
+        "vocabulary_size": 2165,
+        "verse_count": 678,
+        "avg_words_per_verse": 22.68
+      },
+      "top_words": [
+        {
+          "word": "said",
+          "count": 123
+        },
+        {
+          "word": "jesus",
+          "count": 115
+        },
+        {
+          "word": "one",
+          "count": 114
+        },
+        {
+          "word": "man",
+          "count": 77
+        },
+        {
+          "word": "came",
+          "count": 73
+        },
+        {
+          "word": "god",
+          "count": 55
+        },
+        {
+          "word": "come",
+          "count": 49
+        },
+        {
+          "word": "disciples",
+          "count": 47
+        },
+        {
+          "word": "went",
+          "count": 44
+        },
+        {
+          "word": "away",
+          "count": 41
+        },
+        {
+          "word": "people",
+          "count": 40
+        },
+        {
+          "word": "son",
+          "count": 36
+        },
+        {
+          "word": "replied",
+          "count": 34
+        },
+        {
+          "word": "many",
+          "count": 32
+        },
+        {
+          "word": "shall",
+          "count": 32
+        },
+        {
+          "word": "asked",
+          "count": 30
+        },
+        {
+          "word": "see",
+          "count": 29
+        },
+        {
+          "word": "time",
+          "count": 29
+        },
+        {
+          "word": "john",
+          "count": 28
+        },
+        {
+          "word": "also",
+          "count": 28
+        }
+      ],
+      "word_cloud": [
+        {
+          "word": "said",
+          "count": 123
+        },
+        {
+          "word": "jesus",
+          "count": 115
+        },
+        {
+          "word": "one",
+          "count": 114
+        },
+        {
+          "word": "man",
+          "count": 77
+        },
+        {
+          "word": "came",
+          "count": 73
+        },
+        {
+          "word": "god",
+          "count": 55
+        },
+        {
+          "word": "come",
+          "count": 49
+        },
+        {
+          "word": "disciples",
+          "count": 47
+        },
+        {
+          "word": "went",
+          "count": 44
+        },
+        {
+          "word": "away",
+          "count": 41
+        },
+        {
+          "word": "people",
+          "count": 40
+        },
+        {
+          "word": "son",
+          "count": 36
+        },
+        {
+          "word": "replied",
+          "count": 34
+        },
+        {
+          "word": "many",
+          "count": 32
+        },
+        {
+          "word": "shall",
+          "count": 32
+        },
+        {
+          "word": "asked",
+          "count": 30
+        },
+        {
+          "word": "see",
+          "count": 29
+        },
+        {
+          "word": "time",
+          "count": 29
+        },
+        {
+          "word": "john",
+          "count": 28
+        },
+        {
+          "word": "also",
+          "count": 28
+        },
+        {
+          "word": "say",
+          "count": 28
+        },
+        {
+          "word": "men",
+          "count": 27
+        },
+        {
+          "word": "tell",
+          "count": 27
+        },
+        {
+          "word": "began",
+          "count": 26
+        },
+        {
+          "word": "saw",
+          "count": 24
+        },
+        {
+          "word": "high",
+          "count": 24
+        },
+        {
+          "word": "house",
+          "count": 23
+        },
+        {
+          "word": "spirit",
+          "count": 22
+        },
+        {
+          "word": "among",
+          "count": 22
+        },
+        {
+          "word": "put",
+          "count": 22
+        },
+        {
+          "word": "day",
+          "count": 21
+        },
+        {
+          "word": "let",
+          "count": 21
+        },
+        {
+          "word": "crowd",
+          "count": 21
+        },
+        {
+          "word": "life",
+          "count": 21
+        },
+        {
+          "word": "kingdom",
+          "count": 20
+        },
+        {
+          "word": "scribes",
+          "count": 20
+        },
+        {
+          "word": "another",
+          "count": 20
+        },
+        {
+          "word": "even",
+          "count": 20
+        },
+        {
+          "word": "peter",
+          "count": 20
+        },
+        {
+          "word": "first",
+          "count": 20
+        },
+        {
+          "word": "left",
+          "count": 19
+        },
+        {
+          "word": "mother",
+          "count": 19
+        },
+        {
+          "word": "hands",
+          "count": 19
+        },
+        {
+          "word": "may",
+          "count": 18
+        },
+        {
+          "word": "take",
+          "count": 18
+        },
+        {
+          "word": "way",
+          "count": 17
+        },
+        {
+          "word": "make",
+          "count": 17
+        },
+        {
+          "word": "saying",
+          "count": 17
+        },
+        {
+          "word": "hand",
+          "count": 17
+        },
+        {
+          "word": "took",
+          "count": 17
+        }
+      ]
+    },
+    "Luke": {
+      "name": "Luke",
+      "sentiment": {
+        "polarity": 0.1158,
+        "subjectivity": 0.4996
+      },
+      "style_metrics": {
+        "total_words": 26367,
+        "unique_words": 3028,
+        "lexical_diversity": 0.1148,
+        "vocabulary_size": 3028,
+        "verse_count": 1151,
+        "avg_words_per_verse": 22.91
+      },
+      "top_words": [
+        {
+          "word": "said",
+          "count": 206
+        },
+        {
+          "word": "one",
+          "count": 171
+        },
+        {
+          "word": "son",
+          "count": 144
+        },
+        {
+          "word": "man",
+          "count": 133
+        },
+        {
+          "word": "god",
+          "count": 125
+        },
+        {
+          "word": "jesus",
+          "count": 122
+        },
+        {
+          "word": "come",
+          "count": 89
+        },
+        {
+          "word": "shall",
+          "count": 88
+        },
+        {
+          "word": "came",
+          "count": 83
+        },
+        {
+          "word": "people",
+          "count": 68
+        },
+        {
+          "word": "also",
+          "count": 64
+        },
+        {
+          "word": "day",
+          "count": 64
+        },
+        {
+          "word": "replied",
+          "count": 64
+        },
+        {
+          "word": "time",
+          "count": 61
+        },
+        {
+          "word": "say",
+          "count": 60
+        },
+        {
+          "word": "tell",
+          "count": 57
+        },
+        {
+          "word": "men",
+          "count": 57
+        },
+        {
+          "word": "see",
+          "count": 57
+        },
+        {
+          "word": "lord",
+          "count": 53
+        },
+        {
+          "word": "house",
+          "count": 52
+        }
+      ],
+      "word_cloud": [
+        {
+          "word": "said",
+          "count": 206
+        },
+        {
+          "word": "one",
+          "count": 171
+        },
+        {
+          "word": "son",
+          "count": 144
+        },
+        {
+          "word": "man",
+          "count": 133
+        },
+        {
+          "word": "god",
+          "count": 125
+        },
+        {
+          "word": "jesus",
+          "count": 122
+        },
+        {
+          "word": "come",
+          "count": 89
+        },
+        {
+          "word": "shall",
+          "count": 88
+        },
+        {
+          "word": "came",
+          "count": 83
+        },
+        {
+          "word": "people",
+          "count": 68
+        },
+        {
+          "word": "also",
+          "count": 64
+        },
+        {
+          "word": "day",
+          "count": 64
+        },
+        {
+          "word": "replied",
+          "count": 64
+        },
+        {
+          "word": "time",
+          "count": 61
+        },
+        {
+          "word": "say",
+          "count": 60
+        },
+        {
+          "word": "tell",
+          "count": 57
+        },
+        {
+          "word": "men",
+          "count": 57
+        },
+        {
+          "word": "see",
+          "count": 57
+        },
+        {
+          "word": "lord",
+          "count": 53
+        },
+        {
+          "word": "house",
+          "count": 52
+        },
+        {
+          "word": "went",
+          "count": 46
+        },
+        {
+          "word": "father",
+          "count": 46
+        },
+        {
+          "word": "kingdom",
+          "count": 43
+        },
+        {
+          "word": "give",
+          "count": 42
+        },
+        {
+          "word": "asked",
+          "count": 41
+        },
+        {
+          "word": "away",
+          "count": 41
+        },
+        {
+          "word": "things",
+          "count": 39
+        },
+        {
+          "word": "master",
+          "count": 38
+        },
+        {
+          "word": "sent",
+          "count": 36
+        },
+        {
+          "word": "good",
+          "count": 36
+        },
+        {
+          "word": "every",
+          "count": 35
+        },
+        {
+          "word": "disciples",
+          "count": 35
+        },
+        {
+          "word": "among",
+          "count": 34
+        },
+        {
+          "word": "called",
+          "count": 34
+        },
+        {
+          "word": "upon",
+          "count": 34
+        },
+        {
+          "word": "way",
+          "count": 34
+        },
+        {
+          "word": "john",
+          "count": 33
+        },
+        {
+          "word": "town",
+          "count": 33
+        },
+        {
+          "word": "spirit",
+          "count": 32
+        },
+        {
+          "word": "jerusalem",
+          "count": 32
+        },
+        {
+          "word": "life",
+          "count": 31
+        },
+        {
+          "word": "great",
+          "count": 30
+        },
+        {
+          "word": "gave",
+          "count": 30
+        },
+        {
+          "word": "put",
+          "count": 30
+        },
+        {
+          "word": "another",
+          "count": 30
+        },
+        {
+          "word": "let",
+          "count": 29
+        },
+        {
+          "word": "may",
+          "count": 27
+        },
+        {
+          "word": "like",
+          "count": 27
+        },
+        {
+          "word": "take",
+          "count": 27
+        },
+        {
+          "word": "thy",
+          "count": 26
+        }
+      ]
+    }
+  },
+  "overlapping_words": [
+    {
+      "word": "said",
+      "matthew": 175,
+      "mark": 123,
+      "luke": 206,
+      "total": 504
+    },
+    {
+      "word": "one",
+      "matthew": 143,
+      "mark": 114,
+      "luke": 171,
+      "total": 428
+    },
+    {
+      "word": "jesus",
+      "matthew": 158,
+      "mark": 115,
+      "luke": 122,
+      "total": 395
+    },
+    {
+      "word": "man",
+      "matthew": 117,
+      "mark": 77,
+      "luke": 133,
+      "total": 327
+    },
+    {
+      "word": "son",
+      "matthew": 78,
+      "mark": 36,
+      "luke": 144,
+      "total": 258
+    },
+    {
+      "word": "came",
+      "matthew": 96,
+      "mark": 73,
+      "luke": 83,
+      "total": 252
+    },
+    {
+      "word": "god",
+      "matthew": 62,
+      "mark": 55,
+      "luke": 125,
+      "total": 242
+    },
+    {
+      "word": "shall",
+      "matthew": 98,
+      "mark": 32,
+      "luke": 88,
+      "total": 218
+    },
+    {
+      "word": "come",
+      "matthew": 65,
+      "mark": 49,
+      "luke": 89,
+      "total": 203
+    },
+    {
+      "word": "people",
+      "matthew": 54,
+      "mark": 40,
+      "luke": 68,
+      "total": 162
+    },
+    {
+      "word": "replied",
+      "matthew": 63,
+      "mark": 34,
+      "luke": 64,
+      "total": 161
+    },
+    {
+      "word": "disciples",
+      "matthew": 71,
+      "mark": 47,
+      "luke": 35,
+      "total": 153
+    },
+    {
+      "word": "went",
+      "matthew": 60,
+      "mark": 44,
+      "luke": 46,
+      "total": 150
+    },
+    {
+      "word": "tell",
+      "matthew": 65,
+      "mark": 27,
+      "luke": 57,
+      "total": 149
+    },
+    {
+      "word": "men",
+      "matthew": 58,
+      "mark": 27,
+      "luke": 57,
+      "total": 142
+    },
+    {
+      "word": "see",
+      "matthew": 49,
+      "mark": 29,
+      "luke": 57,
+      "total": 135
+    },
+    {
+      "word": "time",
+      "matthew": 43,
+      "mark": 29,
+      "luke": 61,
+      "total": 133
+    },
+    {
+      "word": "away",
+      "matthew": 50,
+      "mark": 41,
+      "luke": 41,
+      "total": 132
+    },
+    {
+      "word": "say",
+      "matthew": 39,
+      "mark": 28,
+      "luke": 60,
+      "total": 127
+    },
+    {
+      "word": "father",
+      "matthew": 65,
+      "mark": 16,
+      "luke": 46,
+      "total": 127
+    },
+    {
+      "word": "day",
+      "matthew": 39,
+      "mark": 21,
+      "luke": 64,
+      "total": 124
+    },
+    {
+      "word": "also",
+      "matthew": 29,
+      "mark": 28,
+      "luke": 64,
+      "total": 121
+    },
+    {
+      "word": "kingdom",
+      "matthew": 54,
+      "mark": 20,
+      "luke": 43,
+      "total": 117
+    },
+    {
+      "word": "house",
+      "matthew": 31,
+      "mark": 23,
+      "luke": 52,
+      "total": 106
+    },
+    {
+      "word": "asked",
+      "matthew": 30,
+      "mark": 30,
+      "luke": 41,
+      "total": 101
+    },
+    {
+      "word": "give",
+      "matthew": 42,
+      "mark": 16,
+      "luke": 42,
+      "total": 100
+    },
+    {
+      "word": "put",
+      "matthew": 47,
+      "mark": 22,
+      "luke": 30,
+      "total": 99
+    },
+    {
+      "word": "lord",
+      "matthew": 26,
+      "mark": 15,
+      "luke": 53,
+      "total": 94
+    },
+    {
+      "word": "good",
+      "matthew": 40,
+      "mark": 16,
+      "luke": 36,
+      "total": 92
+    },
+    {
+      "word": "john",
+      "matthew": 28,
+      "mark": 28,
+      "luke": 33,
+      "total": 89
+    },
+    {
+      "word": "among",
+      "matthew": 29,
+      "mark": 22,
+      "luke": 34,
+      "total": 85
+    },
+    {
+      "word": "called",
+      "matthew": 33,
+      "mark": 16,
+      "luke": 34,
+      "total": 83
+    },
+    {
+      "word": "let",
+      "matthew": 31,
+      "mark": 21,
+      "luke": 29,
+      "total": 81
+    },
+    {
+      "word": "upon",
+      "matthew": 35,
+      "mark": 12,
+      "luke": 34,
+      "total": 81
+    },
+    {
+      "word": "many",
+      "matthew": 25,
+      "mark": 32,
+      "luke": 23,
+      "total": 80
+    },
+    {
+      "word": "life",
+      "matthew": 27,
+      "mark": 21,
+      "luke": 31,
+      "total": 79
+    },
+    {
+      "word": "two",
+      "matthew": 39,
+      "mark": 16,
+      "luke": 22,
+      "total": 77
+    },
+    {
+      "word": "master",
+      "matthew": 33,
+      "mark": 4,
+      "luke": 38,
+      "total": 75
+    },
+    {
+      "word": "every",
+      "matthew": 34,
+      "mark": 6,
+      "luke": 35,
+      "total": 75
+    },
+    {
+      "word": "saw",
+      "matthew": 26,
+      "mark": 24,
+      "luke": 25,
+      "total": 75
+    },
+    {
+      "word": "high",
+      "matthew": 26,
+      "mark": 24,
+      "luke": 24,
+      "total": 74
+    },
+    {
+      "word": "another",
+      "matthew": 22,
+      "mark": 20,
+      "luke": 30,
+      "total": 72
+    },
+    {
+      "word": "things",
+      "matthew": 22,
+      "mark": 11,
+      "luke": 39,
+      "total": 72
+    },
+    {
+      "word": "spirit",
+      "matthew": 18,
+      "mark": 22,
+      "luke": 32,
+      "total": 72
+    },
+    {
+      "word": "may",
+      "matthew": 26,
+      "mark": 18,
+      "luke": 27,
+      "total": 71
+    },
+    {
+      "word": "sent",
+      "matthew": 19,
+      "mark": 15,
+      "luke": 36,
+      "total": 70
+    },
+    {
+      "word": "left",
+      "matthew": 28,
+      "mark": 19,
+      "luke": 22,
+      "total": 69
+    },
+    {
+      "word": "mother",
+      "matthew": 28,
+      "mark": 19,
+      "luke": 21,
+      "total": 68
+    },
+    {
+      "word": "like",
+      "matthew": 28,
+      "mark": 13,
+      "luke": 27,
+      "total": 68
+    },
+    {
+      "word": "even",
+      "matthew": 25,
+      "mark": 20,
+      "luke": 23,
+      "total": 68
+    },
+    {
+      "word": "thy",
+      "matthew": 29,
+      "mark": 13,
+      "luke": 26,
+      "total": 68
+    },
+    {
+      "word": "first",
+      "matthew": 24,
+      "mark": 20,
+      "luke": 23,
+      "total": 67
+    },
+    {
+      "word": "gave",
+      "matthew": 19,
+      "mark": 15,
+      "luke": 30,
+      "total": 64
+    },
+    {
+      "word": "take",
+      "matthew": 19,
+      "mark": 18,
+      "luke": 27,
+      "total": 64
+    },
+    {
+      "word": "peter",
+      "matthew": 23,
+      "mark": 20,
+      "luke": 21,
+      "total": 64
+    },
+    {
+      "word": "place",
+      "matthew": 24,
+      "mark": 14,
+      "luke": 25,
+      "total": 63
+    },
+    {
+      "word": "coming",
+      "matthew": 24,
+      "mark": 13,
+      "luke": 26,
+      "total": 63
+    },
+    {
+      "word": "way",
+      "matthew": 11,
+      "mark": 17,
+      "luke": 34,
+      "total": 62
+    },
+    {
+      "word": "heaven",
+      "matthew": 32,
+      "mark": 7,
+      "luke": 22,
+      "total": 61
+    },
+    {
+      "word": "great",
+      "matthew": 19,
+      "mark": 11,
+      "luke": 30,
+      "total": 60
+    },
+    {
+      "word": "make",
+      "matthew": 22,
+      "mark": 17,
+      "luke": 21,
+      "total": 60
+    },
+    {
+      "word": "hand",
+      "matthew": 27,
+      "mark": 17,
+      "luke": 16,
+      "total": 60
+    },
+    {
+      "word": "pharisees",
+      "matthew": 28,
+      "mark": 11,
+      "luke": 19,
+      "total": 58
+    },
+    {
+      "word": "took",
+      "matthew": 26,
+      "mark": 17,
+      "luke": 14,
+      "total": 57
+    },
+    {
+      "word": "would",
+      "matthew": 18,
+      "mark": 17,
+      "luke": 22,
+      "total": 57
+    },
+    {
+      "word": "whole",
+      "matthew": 21,
+      "mark": 14,
+      "luke": 22,
+      "total": 57
+    },
+    {
+      "word": "saying",
+      "matthew": 18,
+      "mark": 17,
+      "luke": 22,
+      "total": 57
+    },
+    {
+      "word": "heard",
+      "matthew": 23,
+      "mark": 16,
+      "luke": 18,
+      "total": 57
+    },
+    {
+      "word": "jerusalem",
+      "matthew": 13,
+      "mark": 11,
+      "luke": 32,
+      "total": 56
+    },
+    {
+      "word": "brought",
+      "matthew": 21,
+      "mark": 14,
+      "luke": 20,
+      "total": 55
+    },
+    {
+      "word": "yet",
+      "matthew": 14,
+      "mark": 15,
+      "luke": 25,
+      "total": 54
+    },
+    {
+      "word": "scribes",
+      "matthew": 20,
+      "mark": 20,
+      "luke": 14,
+      "total": 54
+    },
+    {
+      "word": "began",
+      "matthew": 8,
+      "mark": 26,
+      "luke": 19,
+      "total": 53
+    },
+    {
+      "word": "thou",
+      "matthew": 30,
+      "mark": 7,
+      "luke": 16,
+      "total": 53
+    },
+    {
+      "word": "therefore",
+      "matthew": 32,
+      "mark": 6,
+      "luke": 14,
+      "total": 52
+    },
+    {
+      "word": "whoever",
+      "matthew": 30,
+      "mark": 10,
+      "luke": 12,
+      "total": 52
+    },
+    {
+      "word": "others",
+      "matthew": 18,
+      "mark": 15,
+      "luke": 19,
+      "total": 52
+    },
+    {
+      "word": "know",
+      "matthew": 19,
+      "mark": 13,
+      "luke": 19,
+      "total": 51
+    },
+    {
+      "word": "words",
+      "matthew": 17,
+      "mark": 13,
+      "luke": 21,
+      "total": 51
+    },
+    {
+      "word": "crowd",
+      "matthew": 8,
+      "mark": 21,
+      "luke": 22,
+      "total": 51
+    },
+    {
+      "word": "name",
+      "matthew": 18,
+      "mark": 9,
+      "luke": 24,
+      "total": 51
+    },
+    {
+      "word": "town",
+      "matthew": 12,
+      "mark": 5,
+      "luke": 33,
+      "total": 50
+    },
+    {
+      "word": "death",
+      "matthew": 21,
+      "mark": 15,
+      "luke": 14,
+      "total": 50
+    },
+    {
+      "word": "priests",
+      "matthew": 20,
+      "mark": 15,
+      "luke": 14,
+      "total": 49
+    },
+    {
+      "word": "found",
+      "matthew": 13,
+      "mark": 12,
+      "luke": 24,
+      "total": 49
+    },
+    {
+      "word": "servant",
+      "matthew": 22,
+      "mark": 4,
+      "luke": 21,
+      "total": 47
+    },
+    {
+      "word": "given",
+      "matthew": 19,
+      "mark": 8,
+      "luke": 20,
+      "total": 47
+    },
+    {
+      "word": "made",
+      "matthew": 14,
+      "mark": 13,
+      "luke": 19,
+      "total": 46
+    },
+    {
+      "word": "hands",
+      "matthew": 13,
+      "mark": 19,
+      "luke": 14,
+      "total": 46
+    },
+    {
+      "word": "blessed",
+      "matthew": 16,
+      "mark": 7,
+      "luke": 23,
+      "total": 46
+    },
+    {
+      "word": "however",
+      "matthew": 16,
+      "mark": 15,
+      "luke": 15,
+      "total": 46
+    },
+    {
+      "word": "dead",
+      "matthew": 14,
+      "mark": 12,
+      "luke": 19,
+      "total": 45
+    },
+    {
+      "word": "child",
+      "matthew": 15,
+      "mark": 9,
+      "luke": 21,
+      "total": 45
+    },
+    {
+      "word": "feet",
+      "matthew": 12,
+      "mark": 14,
+      "luke": 19,
+      "total": 45
+    },
+    {
+      "word": "brother",
+      "matthew": 20,
+      "mark": 11,
+      "luke": 13,
+      "total": 44
+    },
+    {
+      "word": "law",
+      "matthew": 17,
+      "mark": 4,
+      "luke": 23,
+      "total": 44
+    },
+    {
+      "word": "done",
+      "matthew": 17,
+      "mark": 8,
+      "luke": 19,
+      "total": 44
+    },
+    {
+      "word": "comes",
+      "matthew": 15,
+      "mark": 9,
+      "luke": 20,
+      "total": 44
+    },
+    {
+      "word": "never",
+      "matthew": 17,
+      "mark": 12,
+      "luke": 14,
+      "total": 43
+    },
+    {
+      "word": "prophet",
+      "matthew": 24,
+      "mark": 5,
+      "luke": 14,
+      "total": 43
+    },
+    {
+      "word": "holy",
+      "matthew": 15,
+      "mark": 7,
+      "luke": 21,
+      "total": 43
+    },
+    {
+      "word": "thee",
+      "matthew": 21,
+      "mark": 5,
+      "luke": 17,
+      "total": 43
+    },
+    {
+      "word": "body",
+      "matthew": 18,
+      "mark": 10,
+      "luke": 14,
+      "total": 42
+    },
+    {
+      "word": "king",
+      "matthew": 21,
+      "mark": 9,
+      "luke": 12,
+      "total": 42
+    },
+    {
+      "word": "power",
+      "matthew": 11,
+      "mark": 8,
+      "luke": 23,
+      "total": 42
+    },
+    {
+      "word": "nothing",
+      "matthew": 14,
+      "mark": 10,
+      "luke": 18,
+      "total": 42
+    },
+    {
+      "word": "could",
+      "matthew": 9,
+      "mark": 16,
+      "luke": 17,
+      "total": 42
+    },
+    {
+      "word": "galilee",
+      "matthew": 16,
+      "mark": 11,
+      "luke": 14,
+      "total": 41
+    },
+    {
+      "word": "twelve",
+      "matthew": 14,
+      "mark": 15,
+      "luke": 12,
+      "total": 41
+    },
+    {
+      "word": "right",
+      "matthew": 20,
+      "mark": 10,
+      "luke": 11,
+      "total": 41
+    },
+    {
+      "word": "earth",
+      "matthew": 23,
+      "mark": 6,
+      "luke": 12,
+      "total": 41
+    },
+    {
+      "word": "children",
+      "matthew": 18,
+      "mark": 10,
+      "luke": 13,
+      "total": 41
+    },
+    {
+      "word": "heavens",
+      "matthew": 37,
+      "mark": 2,
+      "luke": 2,
+      "total": 41
+    },
+    {
+      "word": "rabbi",
+      "matthew": 4,
+      "mark": 15,
+      "luke": 21,
+      "total": 40
+    },
+    {
+      "word": "eat",
+      "matthew": 12,
+      "mark": 13,
+      "luke": 15,
+      "total": 40
+    },
+    {
+      "word": "must",
+      "matthew": 10,
+      "mark": 11,
+      "luke": 19,
+      "total": 40
+    },
+    {
+      "word": "cured",
+      "matthew": 12,
+      "mark": 8,
+      "luke": 19,
+      "total": 39
+    },
+    {
+      "word": "sabbath",
+      "matthew": 10,
+      "mark": 11,
+      "luke": 18,
+      "total": 39
+    },
+    {
+      "word": "back",
+      "matthew": 11,
+      "mark": 7,
+      "luke": 20,
+      "total": 38
+    },
+    {
+      "word": "enter",
+      "matthew": 16,
+      "mark": 12,
+      "luke": 10,
+      "total": 38
+    },
+    {
+      "word": "without",
+      "matthew": 17,
+      "mark": 11,
+      "luke": 10,
+      "total": 38
+    },
+    {
+      "word": "demons",
+      "matthew": 11,
+      "mark": 10,
+      "luke": 17,
+      "total": 38
+    },
+    {
+      "word": "hear",
+      "matthew": 15,
+      "mark": 6,
+      "luke": 16,
+      "total": 37
+    },
+    {
+      "word": "prophets",
+      "matthew": 16,
+      "mark": 3,
+      "luke": 18,
+      "total": 37
+    },
+    {
+      "word": "together",
+      "matthew": 17,
+      "mark": 7,
+      "luke": 13,
+      "total": 37
+    },
+    {
+      "word": "david",
+      "matthew": 17,
+      "mark": 7,
+      "luke": 13,
+      "total": 37
+    },
+    {
+      "word": "message",
+      "matthew": 9,
+      "mark": 14,
+      "luke": 14,
+      "total": 37
+    },
+    {
+      "word": "long",
+      "matthew": 11,
+      "mark": 10,
+      "luke": 15,
+      "total": 36
+    },
+    {
+      "word": "days",
+      "matthew": 10,
+      "mark": 12,
+      "luke": 14,
+      "total": 36
+    },
+    {
+      "word": "woman",
+      "matthew": 10,
+      "mark": 8,
+      "luke": 18,
+      "total": 36
+    },
+    {
+      "word": "simon",
+      "matthew": 9,
+      "mark": 11,
+      "luke": 16,
+      "total": 36
+    },
+    {
+      "word": "till",
+      "matthew": 14,
+      "mark": 5,
+      "luke": 17,
+      "total": 36
+    },
+    {
+      "word": "faith",
+      "matthew": 16,
+      "mark": 8,
+      "luke": 12,
+      "total": 36
+    },
+    {
+      "word": "wife",
+      "matthew": 13,
+      "mark": 10,
+      "luke": 13,
+      "total": 36
+    },
+    {
+      "word": "mary",
+      "matthew": 11,
+      "mark": 8,
+      "luke": 17,
+      "total": 36
+    },
+    {
+      "word": "followed",
+      "matthew": 15,
+      "mark": 11,
+      "luke": 10,
+      "total": 36
+    },
+    {
+      "word": "find",
+      "matthew": 12,
+      "mark": 4,
+      "luke": 19,
+      "total": 35
+    },
+    {
+      "word": "much",
+      "matthew": 14,
+      "mark": 4,
+      "luke": 17,
+      "total": 35
+    },
+    {
+      "word": "little",
+      "matthew": 14,
+      "mark": 12,
+      "luke": 9,
+      "total": 35
+    },
+    {
+      "word": "answered",
+      "matthew": 11,
+      "mark": 9,
+      "luke": 14,
+      "total": 34
+    },
+    {
+      "word": "receive",
+      "matthew": 14,
+      "mark": 8,
+      "luke": 12,
+      "total": 34
+    },
+    {
+      "word": "bread",
+      "matthew": 11,
+      "mark": 10,
+      "luke": 13,
+      "total": 34
+    },
+    {
+      "word": "country",
+      "matthew": 11,
+      "mark": 8,
+      "luke": 15,
+      "total": 34
+    },
+    {
+      "word": "herod",
+      "matthew": 12,
+      "mark": 9,
+      "luke": 13,
+      "total": 34
+    },
+    {
+      "word": "going",
+      "matthew": 11,
+      "mark": 11,
+      "luke": 12,
+      "total": 34
+    },
+    {
+      "word": "authority",
+      "matthew": 9,
+      "mark": 10,
+      "luke": 14,
+      "total": 33
+    },
+    {
+      "word": "written",
+      "matthew": 12,
+      "mark": 7,
+      "luke": 14,
+      "total": 33
+    },
+    {
+      "word": "ground",
+      "matthew": 15,
+      "mark": 9,
+      "luke": 9,
+      "total": 33
+    },
+    {
+      "word": "pilate",
+      "matthew": 9,
+      "mark": 12,
+      "luke": 12,
+      "total": 33
+    },
+    {
+      "word": "bring",
+      "matthew": 15,
+      "mark": 7,
+      "luke": 10,
+      "total": 32
+    },
+    {
+      "word": "leave",
+      "matthew": 11,
+      "mark": 8,
+      "luke": 13,
+      "total": 32
+    },
+    {
+      "word": "rise",
+      "matthew": 10,
+      "mark": 10,
+      "luke": 12,
+      "total": 32
+    },
+    {
+      "word": "home",
+      "matthew": 9,
+      "mark": 9,
+      "luke": 14,
+      "total": 32
+    },
+    {
+      "word": "speak",
+      "matthew": 12,
+      "mark": 9,
+      "luke": 11,
+      "total": 32
+    },
+    {
+      "word": "truth",
+      "matthew": 13,
+      "mark": 11,
+      "luke": 8,
+      "total": 32
+    },
+    {
+      "word": "temple",
+      "matthew": 10,
+      "mark": 8,
+      "luke": 14,
+      "total": 32
+    },
+    {
+      "word": "sir",
+      "matthew": 20,
+      "mark": 1,
+      "luke": 11,
+      "total": 32
+    },
+    {
+      "word": "round",
+      "matthew": 5,
+      "mark": 15,
+      "luke": 12,
+      "total": 32
+    },
+    {
+      "word": "immediately",
+      "matthew": 9,
+      "mark": 14,
+      "luke": 8,
+      "total": 31
+    },
+    {
+      "word": "brothers",
+      "matthew": 14,
+      "mark": 8,
+      "luke": 9,
+      "total": 31
+    },
+    {
+      "word": "tree",
+      "matthew": 15,
+      "mark": 5,
+      "luke": 11,
+      "total": 31
+    },
+    {
+      "word": "side",
+      "matthew": 7,
+      "mark": 7,
+      "luke": 17,
+      "total": 31
+    },
+    {
+      "word": "alas",
+      "matthew": 14,
+      "mark": 2,
+      "luke": 15,
+      "total": 31
+    },
+    {
+      "word": "order",
+      "matthew": 18,
+      "mark": 8,
+      "luke": 5,
+      "total": 31
+    },
+    {
+      "word": "sitting",
+      "matthew": 10,
+      "mark": 12,
+      "luke": 9,
+      "total": 31
+    },
+    {
+      "word": "ask",
+      "matthew": 13,
+      "mark": 9,
+      "luke": 8,
+      "total": 30
+    },
+    {
+      "word": "seen",
+      "matthew": 9,
+      "mark": 7,
+      "luke": 14,
+      "total": 30
+    },
+    {
+      "word": "three",
+      "matthew": 12,
+      "mark": 8,
+      "luke": 10,
+      "total": 30
+    },
+    {
+      "word": "fear",
+      "matthew": 12,
+      "mark": 3,
+      "luke": 15,
+      "total": 30
+    },
+    {
+      "word": "women",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 19,
+      "total": 30
+    },
+    {
+      "word": "blind",
+      "matthew": 16,
+      "mark": 6,
+      "luke": 8,
+      "total": 30
+    },
+    {
+      "word": "christ",
+      "matthew": 17,
+      "mark": 7,
+      "luke": 6,
+      "total": 30
+    },
+    {
+      "word": "told",
+      "matthew": 5,
+      "mark": 12,
+      "luke": 12,
+      "total": 29
+    },
+    {
+      "word": "send",
+      "matthew": 8,
+      "mark": 12,
+      "luke": 9,
+      "total": 29
+    },
+    {
+      "word": "heart",
+      "matthew": 14,
+      "mark": 7,
+      "luke": 8,
+      "total": 29
+    },
+    {
+      "word": "drink",
+      "matthew": 14,
+      "mark": 7,
+      "luke": 8,
+      "total": 29
+    },
+    {
+      "word": "still",
+      "matthew": 10,
+      "mark": 8,
+      "luke": 10,
+      "total": 28
+    },
+    {
+      "word": "lake",
+      "matthew": 12,
+      "mark": 12,
+      "luke": 4,
+      "total": 28
+    },
+    {
+      "word": "teaching",
+      "matthew": 9,
+      "mark": 10,
+      "luke": 9,
+      "total": 28
+    },
+    {
+      "word": "seven",
+      "matthew": 10,
+      "mark": 9,
+      "luke": 9,
+      "total": 28
+    },
+    {
+      "word": "taken",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 12,
+      "total": 28
+    },
+    {
+      "word": "boat",
+      "matthew": 11,
+      "mark": 12,
+      "luke": 5,
+      "total": 28
+    },
+    {
+      "word": "full",
+      "matthew": 9,
+      "mark": 5,
+      "luke": 14,
+      "total": 28
+    },
+    {
+      "word": "james",
+      "matthew": 6,
+      "mark": 14,
+      "luke": 8,
+      "total": 28
+    },
+    {
+      "word": "believe",
+      "matthew": 6,
+      "mark": 11,
+      "luke": 10,
+      "total": 27
+    },
+    {
+      "word": "pray",
+      "matthew": 9,
+      "mark": 5,
+      "luke": 13,
+      "total": 27
+    },
+    {
+      "word": "stood",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 15,
+      "total": 27
+    },
+    {
+      "word": "seed",
+      "matthew": 12,
+      "mark": 9,
+      "luke": 6,
+      "total": 27
+    },
+    {
+      "word": "five",
+      "matthew": 14,
+      "mark": 3,
+      "luke": 10,
+      "total": 27
+    },
+    {
+      "word": "lay",
+      "matthew": 9,
+      "mark": 7,
+      "luke": 11,
+      "total": 27
+    },
+    {
+      "word": "seeing",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 15,
+      "total": 27
+    },
+    {
+      "word": "might",
+      "matthew": 12,
+      "mark": 7,
+      "luke": 8,
+      "total": 27
+    },
+    {
+      "word": "listen",
+      "matthew": 7,
+      "mark": 13,
+      "luke": 7,
+      "total": 27
+    },
+    {
+      "word": "news",
+      "matthew": 6,
+      "mark": 11,
+      "luke": 10,
+      "total": 27
+    },
+    {
+      "word": "angels",
+      "matthew": 13,
+      "mark": 5,
+      "luke": 9,
+      "total": 27
+    },
+    {
+      "word": "new",
+      "matthew": 9,
+      "mark": 8,
+      "luke": 9,
+      "total": 26
+    },
+    {
+      "word": "filled",
+      "matthew": 10,
+      "mark": 4,
+      "luke": 12,
+      "total": 26
+    },
+    {
+      "word": "eye",
+      "matthew": 16,
+      "mark": 2,
+      "luke": 8,
+      "total": 26
+    },
+    {
+      "word": "moses",
+      "matthew": 7,
+      "mark": 9,
+      "luke": 10,
+      "total": 26
+    },
+    {
+      "word": "looking",
+      "matthew": 4,
+      "mark": 12,
+      "luke": 10,
+      "total": 26
+    },
+    {
+      "word": "glory",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 16,
+      "total": 26
+    },
+    {
+      "word": "voice",
+      "matthew": 9,
+      "mark": 6,
+      "luke": 11,
+      "total": 26
+    },
+    {
+      "word": "exclaimed",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 9,
+      "total": 25
+    },
+    {
+      "word": "solemnly",
+      "matthew": 19,
+      "mark": 5,
+      "luke": 1,
+      "total": 25
+    },
+    {
+      "word": "sins",
+      "matthew": 6,
+      "mark": 7,
+      "luke": 12,
+      "total": 25
+    },
+    {
+      "word": "daughter",
+      "matthew": 9,
+      "mark": 7,
+      "luke": 9,
+      "total": 25
+    },
+    {
+      "word": "sake",
+      "matthew": 11,
+      "mark": 9,
+      "luke": 5,
+      "total": 25
+    },
+    {
+      "word": "tax",
+      "matthew": 10,
+      "mark": 4,
+      "luke": 11,
+      "total": 25
+    },
+    {
+      "word": "present",
+      "matthew": 8,
+      "mark": 3,
+      "luke": 14,
+      "total": 25
+    },
+    {
+      "word": "kept",
+      "matthew": 8,
+      "mark": 7,
+      "luke": 10,
+      "total": 25
+    },
+    {
+      "word": "entered",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 14,
+      "total": 25
+    },
+    {
+      "word": "soon",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 13,
+      "total": 25
+    },
+    {
+      "word": "cried",
+      "matthew": 10,
+      "mark": 5,
+      "luke": 10,
+      "total": 25
+    },
+    {
+      "word": "everything",
+      "matthew": 9,
+      "mark": 10,
+      "luke": 6,
+      "total": 25
+    },
+    {
+      "word": "solemn",
+      "matthew": 12,
+      "mark": 8,
+      "luke": 5,
+      "total": 25
+    },
+    {
+      "word": "shalt",
+      "matthew": 17,
+      "mark": 2,
+      "luke": 6,
+      "total": 25
+    },
+    {
+      "word": "table",
+      "matthew": 5,
+      "mark": 6,
+      "luke": 14,
+      "total": 25
+    },
+    {
+      "word": "last",
+      "matthew": 11,
+      "mark": 9,
+      "luke": 5,
+      "total": 25
+    },
+    {
+      "word": "love",
+      "matthew": 9,
+      "mark": 4,
+      "luke": 12,
+      "total": 25
+    },
+    {
+      "word": "wine",
+      "matthew": 7,
+      "mark": 8,
+      "luke": 10,
+      "total": 25
+    },
+    {
+      "word": "whatever",
+      "matthew": 11,
+      "mark": 8,
+      "luke": 6,
+      "total": 25
+    },
+    {
+      "word": "word",
+      "matthew": 15,
+      "mark": 2,
+      "luke": 7,
+      "total": 24
+    },
+    {
+      "word": "eyes",
+      "matthew": 10,
+      "mark": 7,
+      "luke": 7,
+      "total": 24
+    },
+    {
+      "word": "elders",
+      "matthew": 12,
+      "mark": 7,
+      "luke": 5,
+      "total": 24
+    },
+    {
+      "word": "close",
+      "matthew": 11,
+      "mark": 3,
+      "luke": 10,
+      "total": 24
+    },
+    {
+      "word": "generation",
+      "matthew": 9,
+      "mark": 2,
+      "luke": 13,
+      "total": 24
+    },
+    {
+      "word": "multitude",
+      "matthew": 8,
+      "mark": 7,
+      "luke": 9,
+      "total": 24
+    },
+    {
+      "word": "israel",
+      "matthew": 10,
+      "mark": 2,
+      "luke": 12,
+      "total": 24
+    },
+    {
+      "word": "abraham",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 16,
+      "total": 24
+    },
+    {
+      "word": "far",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 12,
+      "total": 24
+    },
+    {
+      "word": "city",
+      "matthew": 12,
+      "mark": 3,
+      "luke": 9,
+      "total": 24
+    },
+    {
+      "word": "proceeded",
+      "matthew": 4,
+      "mark": 6,
+      "luke": 14,
+      "total": 24
+    },
+    {
+      "word": "elijah",
+      "matthew": 8,
+      "mark": 9,
+      "luke": 7,
+      "total": 24
+    },
+    {
+      "word": "within",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 12,
+      "total": 24
+    },
+    {
+      "word": "light",
+      "matthew": 10,
+      "mark": 2,
+      "luke": 12,
+      "total": 24
+    },
+    {
+      "word": "pay",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 7,
+      "total": 23
+    },
+    {
+      "word": "save",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 7,
+      "total": 23
+    },
+    {
+      "word": "loaves",
+      "matthew": 9,
+      "mark": 8,
+      "luke": 6,
+      "total": 23
+    },
+    {
+      "word": "language",
+      "matthew": 12,
+      "mark": 6,
+      "luke": 5,
+      "total": 23
+    },
+    {
+      "word": "aloud",
+      "matthew": 10,
+      "mark": 3,
+      "luke": 10,
+      "total": 23
+    },
+    {
+      "word": "fall",
+      "matthew": 11,
+      "mark": 3,
+      "luke": 9,
+      "total": 23
+    },
+    {
+      "word": "third",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 11,
+      "total": 23
+    },
+    {
+      "word": "stone",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 10,
+      "total": 23
+    },
+    {
+      "word": "water",
+      "matthew": 9,
+      "mark": 7,
+      "luke": 7,
+      "total": 23
+    },
+    {
+      "word": "question",
+      "matthew": 9,
+      "mark": 6,
+      "luke": 8,
+      "total": 23
+    },
+    {
+      "word": "head",
+      "matthew": 8,
+      "mark": 11,
+      "luke": 4,
+      "total": 23
+    },
+    {
+      "word": "land",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 6,
+      "total": 22
+    },
+    {
+      "word": "answer",
+      "matthew": 6,
+      "mark": 7,
+      "luke": 9,
+      "total": 22
+    },
+    {
+      "word": "spoken",
+      "matthew": 9,
+      "mark": 3,
+      "luke": 10,
+      "total": 22
+    },
+    {
+      "word": "times",
+      "matthew": 9,
+      "mark": 4,
+      "luke": 9,
+      "total": 22
+    },
+    {
+      "word": "party",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 10,
+      "total": 22
+    },
+    {
+      "word": "well",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 10,
+      "total": 22
+    },
+    {
+      "word": "thus",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 13,
+      "total": 22
+    },
+    {
+      "word": "sit",
+      "matthew": 9,
+      "mark": 5,
+      "luke": 8,
+      "total": 22
+    },
+    {
+      "word": "spoke",
+      "matthew": 9,
+      "mark": 2,
+      "luke": 11,
+      "total": 22
+    },
+    {
+      "word": "fire",
+      "matthew": 9,
+      "mark": 5,
+      "luke": 8,
+      "total": 22
+    },
+    {
+      "word": "towards",
+      "matthew": 6,
+      "mark": 5,
+      "luke": 11,
+      "total": 22
+    },
+    {
+      "word": "outside",
+      "matthew": 9,
+      "mark": 7,
+      "luke": 6,
+      "total": 22
+    },
+    {
+      "word": "return",
+      "matthew": 8,
+      "mark": 4,
+      "luke": 10,
+      "total": 22
+    },
+    {
+      "word": "gone",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 9,
+      "total": 21
+    },
+    {
+      "word": "world",
+      "matthew": 11,
+      "mark": 5,
+      "luke": 5,
+      "total": 21
+    },
+    {
+      "word": "received",
+      "matthew": 13,
+      "mark": 4,
+      "luke": 4,
+      "total": 21
+    },
+    {
+      "word": "standing",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 10,
+      "total": 21
+    },
+    {
+      "word": "rest",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 8,
+      "total": 21
+    },
+    {
+      "word": "peace",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 13,
+      "total": 21
+    },
+    {
+      "word": "joseph",
+      "matthew": 11,
+      "mark": 2,
+      "luke": 8,
+      "total": 21
+    },
+    {
+      "word": "rose",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 12,
+      "total": 21
+    },
+    {
+      "word": "cross",
+      "matthew": 7,
+      "mark": 7,
+      "luke": 7,
+      "total": 21
+    },
+    {
+      "word": "old",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 11,
+      "total": 21
+    },
+    {
+      "word": "money",
+      "matthew": 8,
+      "mark": 4,
+      "luke": 9,
+      "total": 21
+    },
+    {
+      "word": "except",
+      "matthew": 10,
+      "mark": 8,
+      "luke": 3,
+      "total": 21
+    },
+    {
+      "word": "cannot",
+      "matthew": 9,
+      "mark": 5,
+      "luke": 7,
+      "total": 21
+    },
+    {
+      "word": "pity",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 8,
+      "total": 21
+    },
+    {
+      "word": "door",
+      "matthew": 8,
+      "mark": 4,
+      "luke": 9,
+      "total": 21
+    },
+    {
+      "word": "sight",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 12,
+      "total": 21
+    },
+    {
+      "word": "priest",
+      "matthew": 8,
+      "mark": 8,
+      "luke": 5,
+      "total": 21
+    },
+    {
+      "word": "near",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 12,
+      "total": 21
+    },
+    {
+      "word": "thrown",
+      "matthew": 10,
+      "mark": 7,
+      "luke": 4,
+      "total": 21
+    },
+    {
+      "word": "certainly",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 12,
+      "total": 21
+    },
+    {
+      "word": "judaea",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 9,
+      "total": 20
+    },
+    {
+      "word": "anything",
+      "matthew": 4,
+      "mark": 8,
+      "luke": 8,
+      "total": 20
+    },
+    {
+      "word": "says",
+      "matthew": 10,
+      "mark": 4,
+      "luke": 6,
+      "total": 20
+    },
+    {
+      "word": "falls",
+      "matthew": 11,
+      "mark": 4,
+      "luke": 5,
+      "total": 20
+    },
+    {
+      "word": "night",
+      "matthew": 9,
+      "mark": 2,
+      "luke": 9,
+      "total": 20
+    },
+    {
+      "word": "fish",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 7,
+      "total": 20
+    },
+    {
+      "word": "understand",
+      "matthew": 7,
+      "mark": 8,
+      "luke": 5,
+      "total": 20
+    },
+    {
+      "word": "synagogue",
+      "matthew": 3,
+      "mark": 7,
+      "luke": 10,
+      "total": 20
+    },
+    {
+      "word": "stand",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 10,
+      "total": 20
+    },
+    {
+      "word": "returned",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 16,
+      "total": 20
+    },
+    {
+      "word": "parable",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 12,
+      "total": 20
+    },
+    {
+      "word": "servants",
+      "matthew": 14,
+      "mark": 2,
+      "luke": 4,
+      "total": 20
+    },
+    {
+      "word": "afterwards",
+      "matthew": 9,
+      "mark": 6,
+      "luke": 5,
+      "total": 20
+    },
+    {
+      "word": "village",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 14,
+      "total": 20
+    },
+    {
+      "word": "hearing",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "end",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "led",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 9,
+      "total": 19
+    },
+    {
+      "word": "sky",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "foul",
+      "matthew": 2,
+      "mark": 11,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "second",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "sons",
+      "matthew": 10,
+      "mark": 3,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "touched",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "follow",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "means",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "receives",
+      "matthew": 10,
+      "mark": 4,
+      "luke": 5,
+      "total": 19
+    },
+    {
+      "word": "passover",
+      "matthew": 5,
+      "mark": 6,
+      "luke": 8,
+      "total": 19
+    },
+    {
+      "word": "alone",
+      "matthew": 8,
+      "mark": 6,
+      "luke": 5,
+      "total": 19
+    },
+    {
+      "word": "reply",
+      "matthew": 8,
+      "mark": 4,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "poor",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 9,
+      "total": 19
+    },
+    {
+      "word": "pass",
+      "matthew": 8,
+      "mark": 4,
+      "luke": 7,
+      "total": 19
+    },
+    {
+      "word": "look",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 6,
+      "total": 19
+    },
+    {
+      "word": "threw",
+      "matthew": 3,
+      "mark": 10,
+      "luke": 5,
+      "total": 18
+    },
+    {
+      "word": "blood",
+      "matthew": 8,
+      "mark": 3,
+      "luke": 7,
+      "total": 18
+    },
+    {
+      "word": "vine",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 6,
+      "total": 18
+    },
+    {
+      "word": "whose",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 8,
+      "total": 18
+    },
+    {
+      "word": "ever",
+      "matthew": 9,
+      "mark": 3,
+      "luke": 6,
+      "total": 18
+    },
+    {
+      "word": "sick",
+      "matthew": 9,
+      "mark": 6,
+      "luke": 3,
+      "total": 18
+    },
+    {
+      "word": "happened",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 11,
+      "total": 18
+    },
+    {
+      "word": "cup",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 5,
+      "total": 18
+    },
+    {
+      "word": "leaving",
+      "matthew": 7,
+      "mark": 7,
+      "luke": 4,
+      "total": 18
+    },
+    {
+      "word": "vineyard",
+      "matthew": 9,
+      "mark": 4,
+      "luke": 5,
+      "total": 18
+    },
+    {
+      "word": "teach",
+      "matthew": 5,
+      "mark": 6,
+      "luke": 7,
+      "total": 18
+    },
+    {
+      "word": "evil",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 7,
+      "total": 18
+    },
+    {
+      "word": "afraid",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 6,
+      "total": 18
+    },
+    {
+      "word": "become",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 5,
+      "total": 18
+    },
+    {
+      "word": "tomb",
+      "matthew": 3,
+      "mark": 7,
+      "luke": 8,
+      "total": 18
+    },
+    {
+      "word": "prison",
+      "matthew": 9,
+      "mark": 4,
+      "luke": 5,
+      "total": 18
+    },
+    {
+      "word": "loud",
+      "matthew": 4,
+      "mark": 6,
+      "luke": 8,
+      "total": 18
+    },
+    {
+      "word": "laid",
+      "matthew": 5,
+      "mark": 7,
+      "luke": 6,
+      "total": 18
+    },
+    {
+      "word": "able",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 8,
+      "total": 18
+    },
+    {
+      "word": "baptized",
+      "matthew": 4,
+      "mark": 8,
+      "luke": 6,
+      "total": 18
+    },
+    {
+      "word": "fruit",
+      "matthew": 10,
+      "mark": 1,
+      "luke": 7,
+      "total": 18
+    },
+    {
+      "word": "young",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 4,
+      "total": 17
+    },
+    {
+      "word": "sheep",
+      "matthew": 11,
+      "mark": 2,
+      "luke": 4,
+      "total": 17
+    },
+    {
+      "word": "behind",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 9,
+      "total": 17
+    },
+    {
+      "word": "fulfilled",
+      "matthew": 10,
+      "mark": 2,
+      "luke": 5,
+      "total": 17
+    },
+    {
+      "word": "gentiles",
+      "matthew": 8,
+      "mark": 3,
+      "luke": 6,
+      "total": 17
+    },
+    {
+      "word": "hearts",
+      "matthew": 2,
+      "mark": 5,
+      "luke": 10,
+      "total": 17
+    },
+    {
+      "word": "goes",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 8,
+      "total": 17
+    },
+    {
+      "word": "speaking",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 7,
+      "total": 17
+    },
+    {
+      "word": "ears",
+      "matthew": 7,
+      "mark": 6,
+      "luke": 4,
+      "total": 17
+    },
+    {
+      "word": "crucified",
+      "matthew": 8,
+      "mark": 5,
+      "luke": 4,
+      "total": 17
+    },
+    {
+      "word": "moment",
+      "matthew": 9,
+      "mark": 1,
+      "luke": 7,
+      "total": 17
+    },
+    {
+      "word": "sign",
+      "matthew": 9,
+      "mark": 4,
+      "luke": 4,
+      "total": 17
+    },
+    {
+      "word": "ready",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 9,
+      "total": 17
+    },
+    {
+      "word": "figurative",
+      "matthew": 8,
+      "mark": 6,
+      "luke": 3,
+      "total": 17
+    },
+    {
+      "word": "synagogues",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 7,
+      "total": 17
+    },
+    {
+      "word": "taking",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 8,
+      "total": 17
+    },
+    {
+      "word": "instantly",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 9,
+      "total": 17
+    },
+    {
+      "word": "call",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 6,
+      "total": 17
+    },
+    {
+      "word": "hour",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 7,
+      "total": 16
+    },
+    {
+      "word": "friends",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 14,
+      "total": 16
+    },
+    {
+      "word": "road",
+      "matthew": 10,
+      "mark": 4,
+      "luke": 2,
+      "total": 16
+    },
+    {
+      "word": "expel",
+      "matthew": 4,
+      "mark": 7,
+      "luke": 5,
+      "total": 16
+    },
+    {
+      "word": "none",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "food",
+      "matthew": 3,
+      "mark": 7,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "get",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 7,
+      "total": 16
+    },
+    {
+      "word": "suffering",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "eating",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 8,
+      "total": 16
+    },
+    {
+      "word": "fellow",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 7,
+      "total": 16
+    },
+    {
+      "word": "sinners",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "remained",
+      "matthew": 5,
+      "mark": 8,
+      "luke": 3,
+      "total": 16
+    },
+    {
+      "word": "fell",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 9,
+      "total": 16
+    },
+    {
+      "word": "desert",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 8,
+      "total": 16
+    },
+    {
+      "word": "turned",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 10,
+      "total": 16
+    },
+    {
+      "word": "forgive",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 7,
+      "total": 16
+    },
+    {
+      "word": "struck",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "asleep",
+      "matthew": 7,
+      "mark": 7,
+      "luke": 2,
+      "total": 16
+    },
+    {
+      "word": "greater",
+      "matthew": 8,
+      "mark": 1,
+      "luke": 7,
+      "total": 16
+    },
+    {
+      "word": "ten",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 9,
+      "total": 16
+    },
+    {
+      "word": "sanctuary",
+      "matthew": 9,
+      "mark": 3,
+      "luke": 4,
+      "total": 16
+    },
+    {
+      "word": "age",
+      "matthew": 8,
+      "mark": 2,
+      "luke": 6,
+      "total": 16
+    },
+    {
+      "word": "judgement",
+      "matthew": 11,
+      "mark": 1,
+      "luke": 4,
+      "total": 16
+    },
+    {
+      "word": "set",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 5,
+      "total": 16
+    },
+    {
+      "word": "years",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 12,
+      "total": 16
+    },
+    {
+      "word": "open",
+      "matthew": 7,
+      "mark": 4,
+      "luke": 4,
+      "total": 15
+    },
+    {
+      "word": "live",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "fast",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 6,
+      "total": 15
+    },
+    {
+      "word": "district",
+      "matthew": 6,
+      "mark": 6,
+      "luke": 3,
+      "total": 15
+    },
+    {
+      "word": "jews",
+      "matthew": 5,
+      "mark": 7,
+      "luke": 3,
+      "total": 15
+    },
+    {
+      "word": "kind",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 6,
+      "total": 15
+    },
+    {
+      "word": "indeed",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 6,
+      "total": 15
+    },
+    {
+      "word": "wealth",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "certain",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 9,
+      "total": 15
+    },
+    {
+      "word": "cut",
+      "matthew": 6,
+      "mark": 5,
+      "luke": 4,
+      "total": 15
+    },
+    {
+      "word": "dressers",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 5,
+      "total": 15
+    },
+    {
+      "word": "taught",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 8,
+      "total": 15
+    },
+    {
+      "word": "use",
+      "matthew": 3,
+      "mark": 6,
+      "luke": 6,
+      "total": 15
+    },
+    {
+      "word": "caesar",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "demon",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "entreated",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 5,
+      "total": 15
+    },
+    {
+      "word": "looked",
+      "matthew": 2,
+      "mark": 7,
+      "luke": 6,
+      "total": 15
+    },
+    {
+      "word": "hold",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "property",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 8,
+      "total": 15
+    },
+    {
+      "word": "throw",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 7,
+      "total": 15
+    },
+    {
+      "word": "towns",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "gatherers",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "rich",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 11,
+      "total": 14
+    },
+    {
+      "word": "remember",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "wind",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "garment",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "wicked",
+      "matthew": 10,
+      "mark": 1,
+      "luke": 3,
+      "total": 14
+    },
+    {
+      "word": "family",
+      "matthew": 3,
+      "mark": 6,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "reason",
+      "matthew": 8,
+      "mark": 1,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "number",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "hungry",
+      "matthew": 8,
+      "mark": 3,
+      "luke": 3,
+      "total": 14
+    },
+    {
+      "word": "lying",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 7,
+      "total": 14
+    },
+    {
+      "word": "keep",
+      "matthew": 7,
+      "mark": 5,
+      "luke": 2,
+      "total": 14
+    },
+    {
+      "word": "hypocrites",
+      "matthew": 12,
+      "mark": 1,
+      "luke": 1,
+      "total": 14
+    },
+    {
+      "word": "awake",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "cure",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 8,
+      "total": 14
+    },
+    {
+      "word": "outer",
+      "matthew": 4,
+      "mark": 6,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "righteous",
+      "matthew": 10,
+      "mark": 1,
+      "luke": 3,
+      "total": 14
+    },
+    {
+      "word": "already",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "hill",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "astonished",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "read",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "giving",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 6,
+      "total": 14
+    },
+    {
+      "word": "became",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 7,
+      "total": 14
+    },
+    {
+      "word": "places",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "handed",
+      "matthew": 3,
+      "mark": 6,
+      "luke": 5,
+      "total": 14
+    },
+    {
+      "word": "board",
+      "matthew": 6,
+      "mark": 5,
+      "luke": 3,
+      "total": 14
+    },
+    {
+      "word": "charge",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "drinking",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 9,
+      "total": 14
+    },
+    {
+      "word": "distance",
+      "matthew": 4,
+      "mark": 6,
+      "luke": 4,
+      "total": 14
+    },
+    {
+      "word": "part",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 10,
+      "total": 14
+    },
+    {
+      "word": "matter",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 7,
+      "total": 13
+    },
+    {
+      "word": "widow",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 8,
+      "total": 13
+    },
+    {
+      "word": "dumb",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "prayed",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "guard",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "passed",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "vast",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "known",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 7,
+      "total": 13
+    },
+    {
+      "word": "lest",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 7,
+      "total": 13
+    },
+    {
+      "word": "betrayed",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "garments",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "command",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "knew",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "works",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "carry",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "saved",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "next",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "meanwhile",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "room",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "ages",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "judas",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 5,
+      "total": 13
+    },
+    {
+      "word": "fig",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "asking",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 5,
+      "total": 13
+    },
+    {
+      "word": "notorious",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "heavenly",
+      "matthew": 9,
+      "mark": 2,
+      "luke": 2,
+      "total": 13
+    },
+    {
+      "word": "adultery",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "anxious",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 7,
+      "total": 13
+    },
+    {
+      "word": "thoughts",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "spread",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 6,
+      "total": 13
+    },
+    {
+      "word": "satan",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 5,
+      "total": 13
+    },
+    {
+      "word": "mouth",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 4,
+      "total": 13
+    },
+    {
+      "word": "human",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 3,
+      "total": 13
+    },
+    {
+      "word": "presence",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 8,
+      "total": 12
+    },
+    {
+      "word": "nations",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "wherever",
+      "matthew": 3,
+      "mark": 7,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "hundred",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 5,
+      "total": 12
+    },
+    {
+      "word": "following",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 5,
+      "total": 12
+    },
+    {
+      "word": "whether",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 6,
+      "total": 12
+    },
+    {
+      "word": "bringing",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 5,
+      "total": 12
+    },
+    {
+      "word": "ill",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "bear",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 6,
+      "total": 12
+    },
+    {
+      "word": "weeping",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 3,
+      "total": 12
+    },
+    {
+      "word": "clean",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 6,
+      "total": 12
+    },
+    {
+      "word": "walking",
+      "matthew": 4,
+      "mark": 7,
+      "luke": 1,
+      "total": 12
+    },
+    {
+      "word": "swine",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "repeatedly",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 8,
+      "total": 12
+    },
+    {
+      "word": "mountain",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 3,
+      "total": 12
+    },
+    {
+      "word": "lost",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 8,
+      "total": 12
+    },
+    {
+      "word": "darkness",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "ate",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "resurrection",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 5,
+      "total": 12
+    },
+    {
+      "word": "spirits",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 6,
+      "total": 12
+    },
+    {
+      "word": "project",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "evidence",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "evening",
+      "matthew": 5,
+      "mark": 6,
+      "luke": 1,
+      "total": 12
+    },
+    {
+      "word": "asks",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 7,
+      "total": 12
+    },
+    {
+      "word": "better",
+      "matthew": 6,
+      "mark": 5,
+      "luke": 1,
+      "total": 12
+    },
+    {
+      "word": "sat",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "reward",
+      "matthew": 10,
+      "mark": 1,
+      "luke": 1,
+      "total": 12
+    },
+    {
+      "word": "sea",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "hast",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "baptist",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 3,
+      "total": 12
+    },
+    {
+      "word": "bridegroom",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "escape",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 3,
+      "total": 12
+    },
+    {
+      "word": "possible",
+      "matthew": 3,
+      "mark": 7,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "opened",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 5,
+      "total": 12
+    },
+    {
+      "word": "betray",
+      "matthew": 6,
+      "mark": 5,
+      "luke": 1,
+      "total": 12
+    },
+    {
+      "word": "jordan",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "risen",
+      "matthew": 5,
+      "mark": 5,
+      "luke": 2,
+      "total": 12
+    },
+    {
+      "word": "gutenberg",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "honour",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 4,
+      "total": 12
+    },
+    {
+      "word": "need",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "meet",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "broke",
+      "matthew": 3,
+      "mark": 6,
+      "luke": 2,
+      "total": 11
+    },
+    {
+      "word": "midst",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "walk",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "used",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "capernaum",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "turn",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "beware",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "calling",
+      "matthew": 1,
+      "mark": 5,
+      "luke": 5,
+      "total": 11
+    },
+    {
+      "word": "shore",
+      "matthew": 4,
+      "mark": 6,
+      "luke": 1,
+      "total": 11
+    },
+    {
+      "word": "though",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "thorns",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "amazement",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "thing",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "longer",
+      "matthew": 2,
+      "mark": 5,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "jacob",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "living",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "strong",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "added",
+      "matthew": 2,
+      "mark": 6,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "making",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 5,
+      "total": 11
+    },
+    {
+      "word": "concerning",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "wisdom",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 7,
+      "total": 11
+    },
+    {
+      "word": "early",
+      "matthew": 4,
+      "mark": 5,
+      "luke": 2,
+      "total": 11
+    },
+    {
+      "word": "zabdi",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 1,
+      "total": 11
+    },
+    {
+      "word": "health",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "false",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 2,
+      "total": 11
+    },
+    {
+      "word": "assembled",
+      "matthew": 6,
+      "mark": 4,
+      "luke": 1,
+      "total": 11
+    },
+    {
+      "word": "release",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "gehenna",
+      "matthew": 7,
+      "mark": 3,
+      "luke": 1,
+      "total": 11
+    },
+    {
+      "word": "willing",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "finds",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "front",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "arm",
+      "matthew": 2,
+      "mark": 5,
+      "luke": 4,
+      "total": 11
+    },
+    {
+      "word": "secret",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 2,
+      "total": 11
+    },
+    {
+      "word": "journey",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 8,
+      "total": 11
+    },
+    {
+      "word": "awe",
+      "matthew": 1,
+      "mark": 5,
+      "luke": 5,
+      "total": 11
+    },
+    {
+      "word": "forward",
+      "matthew": 2,
+      "mark": 6,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "fully",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 6,
+      "total": 11
+    },
+    {
+      "word": "minds",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 7,
+      "total": 11
+    },
+    {
+      "word": "cock",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "bed",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 5,
+      "total": 11
+    },
+    {
+      "word": "guests",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 5,
+      "total": 11
+    },
+    {
+      "word": "ones",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "murder",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 3,
+      "total": 11
+    },
+    {
+      "word": "desire",
+      "matthew": 7,
+      "mark": 2,
+      "luke": 2,
+      "total": 11
+    },
+    {
+      "word": "sword",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "forgiveness",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "praying",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "held",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "nation",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "abroad",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "remain",
+      "matthew": 5,
+      "mark": 4,
+      "luke": 1,
+      "total": 10
+    },
+    {
+      "word": "share",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 6,
+      "total": 10
+    },
+    {
+      "word": "free",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 7,
+      "total": 10
+    },
+    {
+      "word": "barabbas",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "touch",
+      "matthew": 2,
+      "mark": 5,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "listening",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 6,
+      "total": 10
+    },
+    {
+      "word": "show",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "baptism",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "bound",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "prepare",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "always",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "obtain",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "listened",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 6,
+      "total": 10
+    },
+    {
+      "word": "morning",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "care",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "meal",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "appointed",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 6,
+      "total": 10
+    },
+    {
+      "word": "clock",
+      "matthew": 6,
+      "mark": 3,
+      "luke": 1,
+      "total": 10
+    },
+    {
+      "word": "orders",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 6,
+      "total": 10
+    },
+    {
+      "word": "otherwise",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "isaiah",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "restored",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "appeared",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "beginning",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "destroy",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "kill",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "gives",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "face",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "raised",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "birds",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "tombs",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 3,
+      "total": 10
+    },
+    {
+      "word": "quickly",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 5,
+      "total": 10
+    },
+    {
+      "word": "mount",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "manner",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 4,
+      "total": 10
+    },
+    {
+      "word": "court",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "wedding",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 2,
+      "total": 10
+    },
+    {
+      "word": "unable",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 8,
+      "total": 10
+    },
+    {
+      "word": "rock",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "wheat",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "girl",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "editions",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "occasion",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 6,
+      "total": 9
+    },
+    {
+      "word": "soul",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "greatly",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "passing",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "cry",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "suppose",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "ran",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "sidon",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "belongs",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "apostles",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 7,
+      "total": 9
+    },
+    {
+      "word": "born",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "built",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "copyright",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "killed",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "died",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "skins",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "knowing",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "tyre",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "change",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "build",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "sadducees",
+      "matthew": 7,
+      "mark": 1,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "pharisee",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 7,
+      "total": 9
+    },
+    {
+      "word": "married",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "nazarene",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "dinner",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 7,
+      "total": 9
+    },
+    {
+      "word": "signs",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "short",
+      "matthew": 5,
+      "mark": 3,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "sun",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "enough",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "beat",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "arms",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "foot",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "roof",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "field",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "possessed",
+      "matthew": 1,
+      "mark": 6,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "clothes",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "got",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "magdala",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "soldiers",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "entering",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "cloud",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "loved",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "large",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "carried",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "point",
+      "matthew": 4,
+      "mark": 4,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "best",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "die",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "obey",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "receiving",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "paralytic",
+      "matthew": 3,
+      "mark": 5,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "witnesses",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "crying",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "buy",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "knows",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "lose",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "duty",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "nets",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 4,
+      "total": 9
+    },
+    {
+      "word": "nazareth",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 5,
+      "total": 9
+    },
+    {
+      "word": "sooner",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "harvest",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 3,
+      "total": 9
+    },
+    {
+      "word": "allow",
+      "matthew": 3,
+      "mark": 4,
+      "luke": 2,
+      "total": 9
+    },
+    {
+      "word": "waves",
+      "matthew": 6,
+      "mark": 2,
+      "luke": 1,
+      "total": 9
+    },
+    {
+      "word": "commandments",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "seized",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "east",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "mind",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "terrified",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 4,
+      "total": 8
+    },
+    {
+      "word": "marry",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "inquired",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 4,
+      "total": 8
+    },
+    {
+      "word": "cause",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "diseases",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 5,
+      "total": 8
+    },
+    {
+      "word": "terror",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "measure",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "impossible",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "lips",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 5,
+      "total": 8
+    },
+    {
+      "word": "sport",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "portions",
+      "matthew": 2,
+      "mark": 5,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "whenever",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "homage",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "often",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "scriptures",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "disown",
+      "matthew": 4,
+      "mark": 3,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "thirty",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "lamp",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 5,
+      "total": 8
+    },
+    {
+      "word": "stones",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "allowed",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 4,
+      "total": 8
+    },
+    {
+      "word": "dearly",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "tear",
+      "matthew": 5,
+      "mark": 2,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "turning",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 6,
+      "total": 8
+    },
+    {
+      "word": "ordered",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "united",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "punishment",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "teeth",
+      "matthew": 6,
+      "mark": 1,
+      "luke": 1,
+      "total": 8
+    },
+    {
+      "word": "isaac",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "single",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "bethany",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "besides",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "olives",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "proclaim",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "rather",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "broken",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "opportunity",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "parents",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 6,
+      "total": 8
+    },
+    {
+      "word": "root",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "prayer",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 4,
+      "total": 8
+    },
+    {
+      "word": "wait",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "deliver",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "prove",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "break",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "robbers",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "yeast",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 2,
+      "total": 8
+    },
+    {
+      "word": "linen",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 3,
+      "total": 8
+    },
+    {
+      "word": "self",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 5,
+      "total": 8
+    },
+    {
+      "word": "arrived",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "opposite",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "welcome",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "fled",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "desires",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "pardoned",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "salt",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "satisfied",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "relatives",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "poured",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "easier",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "stumble",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "wonderful",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "ear",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "nine",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "possession",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "herodias",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "andrew",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "entrusted",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "report",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "commandment",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "withdrew",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "makes",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "denied",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "puts",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "distribute",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "foundation",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "clothed",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "careful",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "named",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "throwing",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "marriage",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "oil",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "small",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "forth",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "foes",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "immense",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "proclaiming",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "condemn",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "sow",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "reapers",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "perfect",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "sisters",
+      "matthew": 2,
+      "mark": 4,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "herd",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "sows",
+      "matthew": 4,
+      "mark": 2,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "learn",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "hair",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "reached",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "half",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "commits",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "gather",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "becomes",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "thereupon",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "zebul",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "according",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "act",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "carefully",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "thanks",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "ass",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "true",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "preparation",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "finished",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "chosen",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "baal",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "truly",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "shilling",
+      "matthew": 5,
+      "mark": 1,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "temptation",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "cleansed",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "foal",
+      "matthew": 3,
+      "mark": 3,
+      "luke": 1,
+      "total": 7
+    },
+    {
+      "word": "takes",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "kings",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "declared",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "ought",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "hidden",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 4,
+      "total": 7
+    },
+    {
+      "word": "war",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 3,
+      "total": 7
+    },
+    {
+      "word": "begged",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "raise",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 2,
+      "total": 7
+    },
+    {
+      "word": "infants",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "straight",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "sending",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "repent",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "heads",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "inquiring",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "south",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "branches",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "states",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "silent",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "rulers",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "continued",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "iscariot",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "robe",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "marries",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "seeking",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "chains",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "sure",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "blow",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "calls",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "sell",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "fetch",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "camel",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "mark",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "seats",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "fever",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "swords",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "origin",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "astonishment",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "banquet",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "west",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "deaf",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "reported",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "riches",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "philip",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "bag",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "placed",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "creation",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "husband",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "cruelly",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "directed",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "withered",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "ebook",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "rejected",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "beyond",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "hills",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "dogs",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "betraying",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "observe",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "moved",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "proclaimed",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "sower",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "steal",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "permission",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "yield",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "week",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "piece",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "villages",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "fasting",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "exceedingly",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "condemned",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "distress",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "apart",
+      "matthew": 1,
+      "mark": 4,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "trademark",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "want",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "finding",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "registered",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 4,
+      "total": 6
+    },
+    {
+      "word": "owner",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "worse",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "commit",
+      "matthew": 4,
+      "mark": 1,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "dismiss",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "crucify",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "notice",
+      "matthew": 3,
+      "mark": 2,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "indoors",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 2,
+      "total": 6
+    },
+    {
+      "word": "seated",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 3,
+      "total": 6
+    },
+    {
+      "word": "speech",
+      "matthew": 2,
+      "mark": 3,
+      "luke": 1,
+      "total": 6
+    },
+    {
+      "word": "flock",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "white",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "sinful",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "telling",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "amazed",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "tried",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "showed",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "treasury",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "knees",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "besought",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "parables",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "fame",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "rolled",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "departed",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "drive",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "contrary",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "anguish",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "robber",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "bushel",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "objects",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "perhaps",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "hatred",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "shouting",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "crows",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "forefather",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "falling",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "lead",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "needs",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "wrapped",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "lived",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "covenant",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "wish",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "pleasure",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "leper",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "wars",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "drew",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "jericho",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "wailing",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "acts",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "wickedness",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "bethsaida",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "aware",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "prince",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "view",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "mustard",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "recognized",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "top",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "matthew",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "bowed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "stifle",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "hired",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "silence",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "forgotten",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "rules",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "sorry",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "baskets",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "cornerstone",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "trees",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "unleavened",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "debated",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "hinder",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "respect",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "unless",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "demoniac",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "mean",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "shouted",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "unwilling",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "festival",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "boy",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "roused",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "choose",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "various",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "driven",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "dark",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "mass",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "cloth",
+      "matthew": 1,
+      "mark": 3,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "produce",
+      "matthew": 3,
+      "mark": 1,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "kiss",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "taste",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "delay",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "arose",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "treated",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "granted",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "darkened",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "instructions",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "galilaean",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "fields",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "whereupon",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "perceiving",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "appealed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "thyself",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "crippled",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "strike",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "public",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "loses",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 3,
+      "total": 5
+    },
+    {
+      "word": "riot",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "sanhedrin",
+      "matthew": 2,
+      "mark": 2,
+      "luke": 1,
+      "total": 5
+    },
+    {
+      "word": "keeping",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 2,
+      "total": 5
+    },
+    {
+      "word": "salute",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "anger",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "crime",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "dawn",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "fill",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "wearing",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "endure",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "assuming",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "rouse",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "suffered",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "spent",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "patch",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "arrest",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "lands",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "neck",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "gracious",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "dull",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "danced",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "six",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "governors",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "delight",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "form",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "solitary",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "highest",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "leprosy",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "offered",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "trial",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "tied",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "larger",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "agitated",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "adult",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "divided",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "shillings",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "lampstand",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "miracle",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "vintage",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "benefit",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "dust",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "help",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "reasoning",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "lie",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "frightened",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "obedient",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "shed",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "abundant",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "person",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "uttered",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "testimony",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "pardon",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "baptize",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "nay",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "opening",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "accordingly",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "dug",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "teachings",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "shake",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "burst",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "kissed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "pull",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "general",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "fingers",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "cliff",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "grant",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "washing",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "fit",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "smallest",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "noticed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "arrive",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "grapes",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "follower",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "houses",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "pains",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "soil",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "appearance",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "torment",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "angry",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "untie",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "chose",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "planted",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "allowable",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "tassel",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "draw",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "wept",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "special",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "waited",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "understanding",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "belonging",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "indignation",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "conversing",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "sold",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "art",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "beheaded",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "sheet",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "resort",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "burial",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "sunset",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "twice",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "yielded",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "crowed",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "member",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "tents",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "memory",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "mere",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "bottom",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "childless",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "sleep",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "preaching",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "hewn",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "terms",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "exact",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "produced",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "neighbouring",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "committed",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "scattered",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "torn",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "eleven",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "wide",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "alphaeus",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "protected",
+      "matthew": 1,
+      "mark": 2,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "sister",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "seat",
+      "matthew": 2,
+      "mark": 1,
+      "luke": 1,
+      "total": 4
+    },
+    {
+      "word": "spreading",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 2,
+      "total": 4
+    },
+    {
+      "word": "ere",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "owns",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "indignantly",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "heir",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "stretch",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "thomas",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "royalties",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "cave",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "cyrenaean",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "sour",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "utter",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "treat",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "drowned",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "peck",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "sends",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "feeding",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "soft",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "knelt",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "grain",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "arrested",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "office",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "redemption",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "forces",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "license",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "recollected",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "figs",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "stick",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "lodge",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "afternoon",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "conversation",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "universal",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "bethphage",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "joined",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "louder",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "charges",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "shadow",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "prevent",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "north",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "dealers",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "weymouth",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "precepts",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "disturbed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "copy",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "meals",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "earthquakes",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "expels",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "wealthy",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "gennesaret",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "childlike",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "builders",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "needle",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "messenger",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "tasteless",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "arimathaea",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "likeness",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "haemorrhage",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "famines",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "force",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "sweet",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "copying",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "argued",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "scraps",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "apply",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "summer",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "leaves",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "toll",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "happy",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "dense",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "curtain",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "inscription",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "biscuit",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "previous",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "underwent",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "although",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "moon",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "regained",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "renamed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "fight",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "millstone",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "unbelieving",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "print",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "expelling",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "length",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "prayers",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "stars",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "dove",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "presented",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "interest",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "skull",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "rushed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "armed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "securely",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "paying",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "concept",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "bartholomew",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "wineskins",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "modern",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "tempted",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "noon",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "replace",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "disordered",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "couple",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "footstool",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "believed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "testament",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "civil",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "agreed",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "creating",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "updated",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "withers",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "robes",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "mightier",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "calm",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "distributing",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "facing",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "male",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "require",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "protect",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "woke",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "promised",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "publicly",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "drowning",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "electronic",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "swineherds",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "fresh",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "thankful",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "pit",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "wheatfields",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "drove",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "forty",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "divorces",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    },
+    {
+      "word": "cruel",
+      "matthew": 1,
+      "mark": 1,
+      "luke": 1,
+      "total": 3
+    }
+  ],
+  "metadata": {
+    "total_overlapping_words": 1207,
+    "analysis_type": "whole_gospel_level",
+    "sentiment_tool": "TextBlob",
+    "source": "Weymouth New Testament in Modern Speech (1913)"
+  }
+}
