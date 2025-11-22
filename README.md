@@ -62,19 +62,27 @@ This will:
 
 ### View the Visualization
 
-Open the visualization in a web browser:
+**Option 1: GitHub Pages (Recommended)**
+
+This repository is set up to work with GitHub Pages. After pushing to GitHub:
+
+1. Go to your repository Settings → Pages
+2. Under "Source", select the branch (e.g., `main` or `claude/init-project-setup-...`)
+3. Click Save
+4. Your visualization will be available at: `https://yourusername.github.io/distant-reading-practice-/`
+
+**Option 2: Local Server**
+
+Open the visualization locally with a web server:
 
 ```bash
-# Navigate to the visualization directory
-cd visualization
-
-# Open with a simple HTTP server (Python 3)
+# From the repository root
 python3 -m http.server 8000
-
-# Or open index.html directly in your browser
 ```
 
 Then visit `http://localhost:8000` in your browser.
+
+**Note:** Opening `index.html` directly in a browser won't work due to CORS restrictions.
 
 ## Analysis Results Summary
 
